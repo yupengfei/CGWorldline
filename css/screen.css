@@ -1,0 +1,21 @@
+#screen-type {
+	position: absolute;
+	top: -999em;
+	left: -999em;
+}
+
+#screen-type:before {
+	content: 'desktop';
+}
+
+@media all and (max-width: 768px) {
+	#screen-type:before {
+		content: 'mobile';
+	}
+}
+
+@media all and (min-width: 769px) {
+	#screen-type:before {
+		content: 'desktop';
+	}
+}

@@ -4,6 +4,9 @@ requirejs.config({
 		nav_bar: '../nav_bar'
 	}
 });
-requirejs(['nav_bar/nav_bar'], function(nav_bar) {
-	test();
+requirejs(['jquery', 'nav_bar/nav_bar'], function($, nav_bar) {
+	$(document).ready(function() {
+		load_nav_bar();
+	})
+	//alert($("#screentype").attr("data-screentype"));
 });
