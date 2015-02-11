@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"desktop"
+			],
+			[
+				"nav",
+				"nav_bar"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"html",
+				"htmlObj"
+			],
+			[
+				"get",
+				"getDeviceState"
+			],
+			[
+				"ma",
+				"max-width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/developer/Go/CGWorldlineWeb/session/manager.go",
+		"/Users/developer/Go/PillarsPhenomVFXWeb/session/manager.go",
+		"/Users/developer/Html/CGWorldline/nav_bar_mobile.html",
+		"/Users/developer/Html/CGWorldline/nav_bar_desktop.html",
+		"/Users/developer/Html/CGWorldline/css/screen.css",
+		"/Users/developer/Html/CGWorldline/js/nav_bar/nav_bar.js",
+		"/Users/developer/Html/CGWorldline/home.html",
+		"/Users/developer/Html/CGWorldline/js/home.js",
+		"/Users/developer/Downloads/a.ass",
+		"/Users/developer/QML/PillarsFlow/qml/PillarsFlow/JS/production.js",
+		"/Users/developer/QML/PillarsFlow/qml/PillarsFlow/JS/connection.js",
+		"/Users/developer/Html/CGWorldline/js/nav_bar.js",
+		"/Users/developer/Html/CGWorldline/navBar",
+		"/Users/developer/Html/CGWorldline/register.html",
+		"/Users/developer/Html/CGWorldline/returnMessage",
+		"/Users/developer/Html/CGWorldlineFrontends/homepage.html",
+		"/Users/developer/Html/CGWorldlineFrontends/test1.html",
+		"/Users/developer/Html/CGWorldlineFrontends/userRegister.html",
+		"/Users/developer/Go/CGWorldlineWeb/.gitignore",
+		"/Users/developer/Go/CGWorldlineWeb/utility/codeGenerator_test.go",
+		"/Users/developer/Documents/PillarsDaily/index.md",
+		"/Users/developer/Documents/PillarsDaily/PillarsFlowNet/deploy.md",
+		"/Users/developer/Documents/PillarsDaily/PillarsVFX/deploy.md",
+		"/Users/developer/Documents/PillarsDaily/CGWorldline/changelog.md",
+		"/Users/developer/Documents/PillarsDaily/CGWorldline/index.md",
+		"/Users/developer/Documents/天工异彩制片管理系统",
+		"/Users/developer/Documents/数据管理系统",
+		"/Users/developer/Go/PillarsPhenomVFXWeb/.gitignore",
+		"/Users/developer/Documents/Essay/PrincessNote/003晨之守护.md",
+		"/Users/developer/Documents/Essay/PrincessNote/004永恒日出.md",
+		"/Users/developer/Documents/Essay/PrincessNote/README.md",
+		"/Users/developer/Documents/Essay/README.md",
+		"/Users/developer/百度云同步盘/PPT/PillarsRoadmap/动量IT部门未来规划.md",
+		"/Users/developer/百度云同步盘/PPT/PillarsRoadmap/动量IT部门未来规划",
+		"/Users/developer/Go/CGWorldlineWeb/doc/page_logic.md",
+		"/Users/developer/Go/CGWorldlineWeb/doc/design_ddl.md",
+		"/Users/developer/Go/CGWorldlineWeb/doc/chart_logic.md",
+		"/Users/developer/很多时候，我们厌倦了一件事情，并不是能力缺失，而是因为已经洞悉了这件事的所有秘密"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"screen",
+			"node",
+			"UserName",
+			"MySQL：DB：Pillars",
+			"	•	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"MySQL: DB: Pillars",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
