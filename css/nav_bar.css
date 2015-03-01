@@ -1,0 +1,43 @@
+.nav-bar-desktop {
+	width: 100%;
+	height: 2em;
+	background-color: #4b4b4b;
+	display: table;
+}
+.nav-bar-desktop ul {
+	list-style:none;
+	display: table-cell;
+	vertical-align: middle;
+}
+.nav-bar-desktop li {
+	float:left;
+	margin-left: 5%;
+}
+.nav-bar-desktop a:link {
+	color: #d1d1d1;
+	text-decoration:none; 
+}
+.nav-bar-desktop a:visited {
+	color: #d1d1d1;
+	text-decoration:none;
+}
+.nav-bar-desktop a:hover {
+	color: #d1d1d1;
+	text-decoration:none;
+}
+.nav-bar-desktop a:active {
+	color: #d1d1d1;
+	text-decoration:none;
+}
+.nav-bar-right {
+	display: table-cell;
+	vertical-align: middle;
+}
+/*.nav-bar-desktop button {
+	display: table-cell;
+	vertical-align: middle;
+}*/
+.site-logo {
+	display: table-cell;
+	vertical-align: middle;
+}

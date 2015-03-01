@@ -6,6 +6,7 @@ function load_nav_bar() {
 		var htmlObj = $.ajax({url: "/nav_bar_desktop.html", async: false});
 		nav_bar = htmlObj.responseText;
 		alert(nav_bar);
+		//if (document.)
 	} else if (device_type == "mobile") {
 		var htmlObj = $.ajax({url: "/nav_bar_mobile.html", async: false});
 		nav_bar = htmlObj.responseText;

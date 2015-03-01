@@ -57,6 +57,11 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/developer/Html/CGWorldline",
+		"/Users/developer/Go/CGWorldlineWeb"
+	],
 	"file_history":
 	[
 		"/Users/developer/Go/CGWorldlineWeb/session/manager.go",
