@@ -1,0 +1,31 @@
+.register-top {
+	width: 100%;
+	height: 10em;
+}
+.register-table {
+	display: table;
+}
+.register-avatar {
+	width: 10em;
+	height: 10em;
+	border: 1px #d1d1d1;
+}
+.register-avatar-image {
+	width: 10em;
+	height: 10em;
+}
+.register-avatar-email {
+	width: 20em;
+	height: 5em;
+	display: table-row;
+}
+.register-avatar-displayname {
+	width: 20em;
+	height: 5em;
+	display: table-row;
+}
+.register-avatar-password {
+	width: 20em;
+	height: 5em;
+	display: table-row;
+}
