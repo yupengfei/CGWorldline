@@ -1,33 +1,38 @@
 <!doctype html>
 <html>
-<head>
-	<meta charset="utf8">
-	<link rel="stylesheet" href="css/debug.css">
-	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/screen.css">
-	<link rel="stylesheet" href="css/nav_bar.css">
-	<link rel="stylesheet" href="css/register.css">
-	<title>注册</title>
-</head>
-<body>
-<!-- 		"Email": "xxx@test.com",
-		"DisplayName": "xxxxx",
-		"AvatarUrl": "头像的url"
-		"Password": "32位长的md5加密" -->
-	<div id='screen-type' ></div>
-	<div class="register-table">
-		<div class="register-top">
-		</div>
-		<div class="register-avatar">
-			<img class="register-avatar-image" src="img/add.png">
-		</div>
-		<br />
-		<input class="register-displayname" type="text" name="DisplayName" />
-		<br />
-		<input class="register-email" type="text" name="Email" />
-		<br />
-		<input class="register-password" type="password" name="Email" />
-	</div>
-	<script data-main="js/register.js" src="js/require.js"></script>
-</body>
+	<head>
+		<meta charset="utf8">
+		<link rel="stylesheet" href="css/debug.css">
+		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="css/screen.css">
+		<link rel="stylesheet" href="css/nav_bar.css">
+		<link rel="stylesheet" href="css/register.css">
+		<title>注册why</title>
+	</head>
+	<body>
+		<div  id = "nav-bar"></div>
+	    <div  id = "main">
+			<div  id="register-user-image-div">			
+				<input   type = "file"  class ="user-select-image-url" name = "selected-image"/>
+			</div>
+		
+		    <div>
+				<input class = "register-user-email" type="text" name="email" />
+			</div>
+			<div>
+				<input class = "register-user-displayname" type="text" name="display-name" />
+		    </div>
+			<div>
+				<input class = "register-user-password" type="password" name="password" />
+			</div>
+			<div>
+				<input class = "register-user-makeSure-password" type="password" name="makeSure-password"/> 
+			</div>
+			<div> 
+			    <input class = "btn_register" type = "submit"  value ="注册"/>
+			</div>  	
+	    </div>
+	    <div  id = "footer"></div>
+	    <script data-main="/js/register" language="JavaScript" defer async="true" src="js/r.js"></script>
+	</body>
 </html>
